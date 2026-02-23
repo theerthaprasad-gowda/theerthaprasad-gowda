@@ -1,122 +1,122 @@
 # Theerthaprasad Gowda
 
-## Senior Quality Engineer | Test Automation Architect | Billing & Telecom Systems
+## Senior SDET | Automation Architect | Quality Engineering Leader
 
-Quality-focused Software Engineer with 5+ years of experience in large-scale telecom and billing systems. Specialized in automation architecture, CI/CD-driven quality engineering, and end-to-end test strategy ownership across ordering, billing, rating, and usage domains.
+Senior Quality Engineer with 4+ years of experience building scalable automation frameworks and owning end-to-end quality strategy for high-volume telecom and billing systems. 
 
-I design automation systems that reduce manual effort, improve regression stability, and accelerate release cycles while maintaining production-grade reliability.
+I specialize in transforming manual-heavy testing environments into CI-driven, automation-first ecosystems that improve release velocity, stability, and production confidence.
+
+Focused on building quality as an engineering discipline — not a support function.
 
 ---
 
-## Core Expertise
+## What I Bring to Product Teams
 
-### Test Automation Architecture
-- Selenium, Playwright, Serenity, Cucumber
-- Robot Framework, Ginger Framework
-- UI, API, and Backend automation
-- Framework design & scalability
-- Regression suite stabilization (300+ test cases)
-- CI-integrated automation pipelines
+- Design automation frameworks that scale with the product
+- Integrate quality gates into CI/CD pipelines
+- Reduce regression cycles through stable, maintainable test architecture
+- Build internal tools that eliminate manual operational overhead
+- Drive end-to-end ownership across UI, API, and backend layers
+- Improve release confidence with measurable quality metrics
 
-### Billing & Telecom Systems
-- Kenan Billing System
-- Rating, Usage & Billing workflows
+---
+
+# Automation Architecture & Strategy
+
+### Framework Engineering
+- Designed and scaled 300+ regression automation suite for ordering platforms
+- Built modular Selenium + Serenity + Cucumber frameworks
+- Introduced Playwright for faster and more stable UI automation
+- Designed reusable utilities for data setup and environment handling
+
+### API & Backend Automation
+- Automated 100+ API endpoints using JMeter and Postman
+- Validated billing, rating, and usage workflows in Kenan system
+- Built shell-driven backend execution tools reducing manual ops from 30 minutes to single-click
+
+### Internal Tooling & Productivity Engineering
+- Developed **Autobot-FX** (JavaFX + Playwright) to generate test data 5× faster
+- Built web-based automation for executing 60+ backend billing jobs
+- Created data extraction tool (Matrix) for non-prod test configuration readiness
+
+---
+
+# CI/CD & Quality Engineering
+
+- Integrated automation into CI pipelines (Bitbucket, Bamboo, Jenkins)
+- Enabled weekly release cycles with stable automation support
+- Designed regression strategy for channel ordering systems
+- Implemented test reporting & failure triaging workflows
+- Improved defect detection earlier in lifecycle via API-first testing
+
+---
+
+# Domain Expertise
+
+- Telecom & Billing Systems
+- Kenan (Billing, Rating, Usage)
 - Channel Ordering Applications (Self-Help & Agent Assist)
 - Integration testing (file-based & synchronous interfaces)
-- End-to-end billing demand validation
-
-### API & Performance Testing
-- JMeter (100+ endpoints automated)
-- Postman, SoapUI
-- Load & performance validation (NeoLoad)
-- API contract and integration testing
-
-### Development & Tooling
-- Java, Python, C/C++
-- Shell scripting
-- JavaFX desktop tooling
-- Spring Boot
-- MySQL, Oracle, PL/SQL
-- Git, Jira, Bitbucket, Bamboo
+- End-to-end system validation across UI → API → Backend
 
 ---
 
-## Professional Impact
+# Leadership & Ownership
 
-- Automated 300+ regression scenarios for telecom ordering apps.
-- Built JavaFX + Playwright desktop tool improving test data generation speed by 5×.
-- Reduced backend job execution from ~30 minutes to 1-click automation.
-- Automated 60+ Kenan billing jobs via web-based automation tooling.
-- Designed API automation suite covering 100+ endpoints.
-- Owned end-to-end test strategy for channel ordering applications.
-- Supported weekly production releases via CI/CD pipeline management.
+- Owned complete test strategy for ordering applications
+- Led regression planning and release validation
+- Coordinated across dev, product, and business teams
+- Designed quality standards for billing demand implementations
+- Mentored peers on automation best practices and framework design
 
 ---
 
-## Key Projects
+# Engineering Mindset
 
-### ECOM Test Suite
-Designed and scaled a Selenium-based regression automation suite (~300+ tests) integrated with Jenkins CI to support telecom ordering applications.
-
-### Autobot-FX
-Built a JavaFX + Playwright desktop application to generate test data through UI workflows, eliminating backend dependency in non-production environments.
-
-### AJP (Automated Job Processor)
-Developed a web-based tool to execute 60+ Kenan backend jobs (billing, rating, usage), reducing manual effort and execution time significantly.
-
-### Matrix
-Created a web application to extract and structure test/configuration data from non-production environments, improving test preparation efficiency.
+- Automation is infrastructure, not scripts
+- Stability over speed, but design for both
+- Shift-left testing and API-first validation
+- Measure release confidence, not just coverage
+- Build tools that reduce long-term operational cost
 
 ---
 
-## Engineering Approach
-
-- Treat automation as a product, not a script.
-- Focus on stability before scale.
-- Integrate quality into CI/CD, not post-development.
-- Reduce manual dependency through intelligent tooling.
-- Design reusable and maintainable frameworks.
-
----
-
-## Tech Stack
+# Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Automation & Testing
+### Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### DevOps & Platforms
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-## Certifications
+# Certifications
 
 - ISTQB Certified Tester Foundation Level (CTFL) v4.0
-- Scaler Certified – DSA, SQL, LLD, HLD, Microservices
+- Advanced coursework in DSA, LLD, HLD, Microservices
 
 ---
 
-## Currently Focused On
+# Currently Building Toward
 
-- Automation framework scalability
-- Performance & reliability testing
-- Improving CI/CD quality gates
-- Advanced backend automation tooling
+- Advanced test architecture for microservices-based systems
+- Automation observability (test flakiness metrics, failure analytics)
+- Contract testing & service virtualization
+- Scalable quality gates for high-frequency deployments
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theerthaprasad-gowda&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theerthaprasad-gowda&layout=compact&theme=dark)
