@@ -2,7 +2,7 @@
 
 ## Senior SDET | Automation Architect | Quality Engineering Leader
 
-Senior Quality Engineer with 4+ years of experience building scalable automation frameworks and owning end-to-end quality strategy for high-volume telecom and billing systems. 
+Senior Quality Engineer with 5+ years of experience building scalable automation frameworks and owning end-to-end quality strategy for high-volume telecom and billing systems. 
 
 I specialize in transforming manual-heavy testing environments into CI-driven, automation-first ecosystems that improve release velocity, stability, and production confidence.
 
