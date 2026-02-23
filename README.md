@@ -1,93 +1,122 @@
 # Theerthaprasad Gowda
 
-## Senior Software Engineer | Distributed Systems | Reliability Engineering
+## Senior Quality Engineer | Test Automation Architect | Billing & Telecom Systems
 
-I design and build large-scale distributed systems with a strong focus on scalability, fault tolerance, and performance optimization. My work centers on high-throughput backend platforms, observability-driven development, and production-grade reliability.
+Quality-focused Software Engineer with 5+ years of experience in large-scale telecom and billing systems. Specialized in automation architecture, CI/CD-driven quality engineering, and end-to-end test strategy ownership across ordering, billing, rating, and usage domains.
+
+I design automation systems that reduce manual effort, improve regression stability, and accelerate release cycles while maintaining production-grade reliability.
 
 ---
 
 ## Core Expertise
 
-### System Design & Architecture
-- Microservices & Modular Monolith design
-- Event-Driven Architecture
-- Distributed Systems & CAP trade-offs
-- High-throughput API design (10k+ RPS)
-- Caching strategies (Redis, multi-layer caching)
-- Horizontal scaling & load balancing
-- SLO/SLA-driven system design
+### Test Automation Architecture
+- Selenium, Playwright, Serenity, Cucumber
+- Robot Framework, Ginger Framework
+- UI, API, and Backend automation
+- Framework design & scalability
+- Regression suite stabilization (300+ test cases)
+- CI-integrated automation pipelines
 
-### Backend Engineering
-- Go | Rust | Java
-- Concurrency & memory optimization
-- REST & gRPC services
-- Database schema design & query tuning
-- Streaming systems & message queues
-- Infrastructure as Code
+### Billing & Telecom Systems
+- Kenan Billing System
+- Rating, Usage & Billing workflows
+- Channel Ordering Applications (Self-Help & Agent Assist)
+- Integration testing (file-based & synchronous interfaces)
+- End-to-end billing demand validation
 
-### Reliability & Performance
-- Load testing with k6
-- Chaos engineering & failure simulation
-- Integration & contract testing
-- CI/CD automation
-- Observability-first systems (metrics, logs, tracing)
-- Zero-downtime deployment strategies
+### API & Performance Testing
+- JMeter (100+ endpoints automated)
+- Postman, SoapUI
+- Load & performance validation (NeoLoad)
+- API contract and integration testing
+
+### Development & Tooling
+- Java, Python, C/C++
+- Shell scripting
+- JavaFX desktop tooling
+- Spring Boot
+- MySQL, Oracle, PL/SQL
+- Git, Jira, Bitbucket, Bamboo
 
 ---
 
-## Engineering Philosophy
+## Professional Impact
 
-- Design for failure before scale.
-- Optimize for clarity over cleverness.
-- Measure latency, throughput, and error budgets.
-- Automate everything that can break.
-- Build systems that degrade gracefully under load.
+- Automated 300+ regression scenarios for telecom ordering apps.
+- Built JavaFX + Playwright desktop tool improving test data generation speed by 5×.
+- Reduced backend job execution from ~30 minutes to 1-click automation.
+- Automated 60+ Kenan billing jobs via web-based automation tooling.
+- Designed API automation suite covering 100+ endpoints.
+- Owned end-to-end test strategy for channel ordering applications.
+- Supported weekly production releases via CI/CD pipeline management.
+
+---
+
+## Key Projects
+
+### ECOM Test Suite
+Designed and scaled a Selenium-based regression automation suite (~300+ tests) integrated with Jenkins CI to support telecom ordering applications.
+
+### Autobot-FX
+Built a JavaFX + Playwright desktop application to generate test data through UI workflows, eliminating backend dependency in non-production environments.
+
+### AJP (Automated Job Processor)
+Developed a web-based tool to execute 60+ Kenan backend jobs (billing, rating, usage), reducing manual effort and execution time significantly.
+
+### Matrix
+Created a web application to extract and structure test/configuration data from non-production environments, improving test preparation efficiency.
+
+---
+
+## Engineering Approach
+
+- Treat automation as a product, not a script.
+- Focus on stability before scale.
+- Integrate quality into CI/CD, not post-development.
+- Reduce manual dependency through intelligent tooling.
+- Design reusable and maintainable frameworks.
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Automation & Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-### Data & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-
----
-
-## Production Impact Highlights
-
-- Architected services sustaining 10k+ requests/sec
-- Reduced P99 latency through caching and query optimization
-- Improved system reliability via structured observability
-- Automated CI pipelines for consistent production releases
-- Designed resilient systems with graceful degradation patterns
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
-## Featured Work
+## Certifications
 
-See pinned repositories for:
-- Distributed system architecture deep dives
-- Performance benchmarking results
-- Scalability experiments
-- Reliability engineering implementations
+- ISTQB Certified Tester Foundation Level (CTFL) v4.0
+- Scaler Certified – DSA, SQL, LLD, HLD, Microservices
 
 ---
 
-## Metrics & Activity
+## Currently Focused On
+
+- Automation framework scalability
+- Performance & reliability testing
+- Improving CI/CD quality gates
+- Advanced backend automation tooling
+
+---
+
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=<your-username>&theme=dark)
